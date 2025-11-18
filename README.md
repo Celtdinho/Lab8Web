@@ -19,6 +19,8 @@ lab8_php_database/
 ├── style.css       # CSS sederhana
 └── gambar/         # Folder upload gambar
 
+![poto](lab8web.png).
+
 📌 Langkah Praktikum
 
 Buat database baru di phpMyAdmin:
