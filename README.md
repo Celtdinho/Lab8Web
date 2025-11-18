@@ -2,6 +2,7 @@
 # NIM  : 312410118
 # Kelas : TI.24.A1
 
+![poto](lab8.png)
 
 ```
 Praktikum 8 – PHP dan Database MySQL
@@ -19,7 +20,7 @@ lab8_php_database/
 ├── style.css       # CSS sederhana
 └── gambar/         # Folder upload gambar
 
-![poto](lab8.png).
+
 
 📌 Langkah Praktikum
 
