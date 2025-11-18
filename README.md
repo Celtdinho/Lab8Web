@@ -19,7 +19,7 @@ lab8_php_database/
 ├── style.css       # CSS sederhana
 └── gambar/         # Folder upload gambar
 
-![poto](lab8web.png).
+![poto](lab8.png).
 
 📌 Langkah Praktikum
 
